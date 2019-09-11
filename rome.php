@@ -46,7 +46,9 @@
 
 	<main>
 
-		<p>Raphael, Italian in full Raffaello Sanzio or Raffaello Santi, (born April 6, 1483, Urbino, Duchy of Urbino [Italy]—died April 6, 1520, Rome,Papal States[Italy]), master painter and architect of the Italian High Renaissance. Raphael is best known for his Madonnas and for his large figure compositions in the Vatican. His work is admired for its clarity of form and ease of composition and for its visual achievement of the Neoplatonic ideal of human grandeur.</p>
+		<h1>Rome</h1>
+
+		<p>Raphael spent the last 12 years of his short life in Rome. They were years of feverish activity and successive masterpieces. His first task in the city was to paint a cycle of frescoes in a suite of medium-sized rooms in the Vatican papal apartments in which Julius himself lived and worked; these rooms are known simply as the Stanze. The Stanza della Segnatura (1508–11) and Stanza d’Eliodoro (1512–14) were decorated practically entirely by Raphael himself; the frescoes in the Stanza dell’Incendio (1514–17), though designed by Raphael, were largely executed by his numerous assistants and pupils.</p>
 
 	</main>
 

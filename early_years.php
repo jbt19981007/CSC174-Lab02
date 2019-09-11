@@ -46,7 +46,9 @@
 
 	<main>
 
-		<p>Raphael, Italian in full Raffaello Sanzio or Raffaello Santi, (born April 6, 1483, Urbino, Duchy of Urbino [Italy]—died April 6, 1520, Rome,Papal States[Italy]), master painter and architect of the Italian High Renaissance. Raphael is best known for his Madonnas and for his large figure compositions in the Vatican. His work is admired for its clarity of form and ease of composition and for its visual achievement of the Neoplatonic ideal of human grandeur.</p>
+		<h1>Early Years</h1>
+
+		<p>Raphael was the son of Giovanni Santi and Magia di Battista Ciarla; his mother died in 1491. His father was, according to the 16th-century artist and biographer Giorgio Vasari, a painter “of no great merit.” He was, however, a man of culture who was in constant contact with the advanced artistic ideas current at the court of Urbino. He gave his son his first instruction in painting, and, before his death in 1494, when Raphael was 11, he had introduced the boy to humanistic philosophy at the court.</p>
 
 	</main>
 
