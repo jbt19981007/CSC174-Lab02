@@ -18,7 +18,7 @@
 
 		<header>
 
-		<a href="index.php">
+		<a href="bjiang.php">
 
 			<h1>Raphael Sanzio</h1>
 
@@ -56,7 +56,7 @@
 
 	</footer>
 
-	<?php include "inc/nav.php"; ?>
+	<?php include "inc/nav1.php"; ?>
 
 	</div>
 
