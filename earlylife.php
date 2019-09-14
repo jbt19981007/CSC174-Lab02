@@ -15,6 +15,7 @@
 	</ul>
 </aside>
 <?php include "inc/nav.php"; ?>
+<?php include "inc/homenav.php"; ?>
 <main>
 	<h1>Early Life</h1>
 	<p>Richard's parents divorced when he was ten years old. After the divorce, he and his Father remained in Accra, while his mother returned to Batsonaa, where she pursued her Masters Degree in Education and went on to teach Twi in S.D.A Primary Schools. Joyce's limited finances and health issues caused her to remain close to Accra  until Richard's early adulthood. Three years after their divorce , Richard met and married Paulinaa Ohenewaa, a Trader. Richard was raised in two Ghanaian neighbourhoods. He lived on Okle Mantse Road in Accra  until grade nine, playing soccer with the Sakumonon School complex team. He then moved to Gbawe in 2012 to live with his Father and Step-mother after their marriage. </p>
