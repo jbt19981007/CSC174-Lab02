@@ -15,6 +15,7 @@
 	</ul>
 </aside>
 <?php include "inc/nav2.php"; ?>
+<?php include "inc/homenav.php"; ?>
 <main>
 	<h1>Early Life</h1>
 	<p> As a young boy, Michael was always very interested in math and numbers. Throughout highschool Michael excelled in majority of the math classes he took. Based on this knowledge, he chose to pursuit a path into the Finance Industry, with a hope to go into investment banking.</p>
