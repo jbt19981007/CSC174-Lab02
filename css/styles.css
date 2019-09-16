@@ -101,7 +101,10 @@ nav li {
 	}
 	nav li { margin-left: 0; }
 }
-
+.home{
+	grid-column: 2 / 4;
+	grid-row: 1 / 2;
+}
 
 /*	*************************************************
 	LAYOUT
