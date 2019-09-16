@@ -2,7 +2,7 @@
 
 		<ul>
 
-			<li><a href="bjiang.php">Home</a></li>
+			<li><a href="bjiang.php">Raphael</a></li>
 
 			<li><a href="early_years.php">Early Years</a></li>
 
