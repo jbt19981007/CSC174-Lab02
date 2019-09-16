@@ -59,7 +59,7 @@
 	</footer>
 
 	<?php include "inc/nav1.php"; ?>
-	<?php include "inc/homenav.php"; ?>
+	<?php include "inc/homenav1.php"; ?>
 
 	</div>
 
