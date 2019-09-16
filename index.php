@@ -4,7 +4,7 @@
 <body class="container">
 <header >
 	<a href="index.php">
-		<h1>Richard O Akomea</h1>
+		<h1>Team Brooklyn</h1>
     
         <img src="images/random.jpg" alt="home Photo">
     </a>
