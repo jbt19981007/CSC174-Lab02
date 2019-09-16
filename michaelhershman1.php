@@ -15,6 +15,7 @@
 	</ul>
 </aside>
 <?php include "inc/nav2.php"; ?>
+<?php include "inc/homenav.php"; ?>
 <main>
 	<p>Michael Hershman was born on August 10, 2000, in Brooklyn, New York. Growing up in a big city, Michael was always mature for his age, with many responsibilities. He is transfer student that came from Fordham University last semester with the intended major of Financial Economics, hoping to go into investment banking. Michael is always passionate about all of his tasks and loves to meet and interact with new people.</p>
 </main>
