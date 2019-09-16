@@ -1,4 +1,4 @@
-<?php $pageTitle="Michael Hershman's Early Life"; ?>
+<?php $pageTitle="Michael Hershman-Swimming"; ?>
 <?php include "inc/html-top.php"; ?>
 <body class="container">
 <header >
@@ -16,8 +16,8 @@
 </aside>
 <?php include "inc/nav.php"; ?>
 <main>
-	<h1>Early Life</h1>
-	<p> As a young boy, Michael was always very interested in math and numbers. Throughout highschool Michael excelled in majority of the math classes he took. Based on this knowledge, he chose to pursuit a path into the Finance Industry, with a hope to go into investment banking.</p>
+	<h1>Swimming</h1>
+	<p> From a very young age, Michael started to get into swimming. He was on a travelling competitve team. As the years went on, Michael's swimming abilities were improving a lot faster than his peers. During his senior year of highschool, he was elected to be a captain of the swim team. Although he has not swam in a competitve enviornment since highschool, he hopes to join the University swim team in the near future.</p>
 </main>
 
 <footer >CSC 174: Advanced Front-end Web Design and Development</footer>
